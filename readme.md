@@ -22,11 +22,6 @@ This tool automates a sequence of key presses using the `pydirectinput` library,
    - The console will display real-time feedback, showing which key is being pressed.
    - Once the sequence is complete, you will see a **"Sequence finished!"** message in the console.
 
-### Running via Batch File
-To ensure that the Command Prompt stays open while running the `.exe` file, you can use the included `.bat` file:
-1. **Download the `run_with_console.bat`** file.
-2. **Run the Batch File**: Double-click the batch file to open the executable with the Command Prompt window visible.
-
 This allows you to see all console output during the execution.
 
 ### Example Command (for advanced users):
